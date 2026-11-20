@@ -1,5 +1,7 @@
 # Power Market Analyzer
 
+#### Video Demo: https://youtu.be/UseAPwtA7UA
+
 #### Description:
 Power Market Analyzer is a Python program I created to work with real electricity price data from the OMIE (the electricity market operator for Spain and Portugal). I wanted the project to be related to energy while also using different Python concepts I learned during CS50P, such as classes, functions, working with online data, calculations, user input, error handling, and testing.
 
